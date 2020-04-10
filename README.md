@@ -1,4 +1,4 @@
-# Covid19Tracker
+# Coronavirus (COVID 19) Tracker
 A simple Python and Dash based Coronavirus (COVID 19) tracker.
 Displays Country (and districts wherever applicable) based stats.
 
